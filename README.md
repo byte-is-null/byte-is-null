@@ -1,8 +1,14 @@
 ## I'm literally a bit off, like actually
-`0001` > `0000`
+```js
+((byte="0001") => {
+  byte="0000";
+  if (byte.match("0000")){
+  return byte=null;}
+})();
+```
 
 ## Now I'm refered as Null Byte
-But my true purpose shall remain NoneType
+> But my true purpose shall remain NoneType
 
-## Contact
+## Contact (Emergency only)
 WARNING: Please do not try and contact me
