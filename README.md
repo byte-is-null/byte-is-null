@@ -1,9 +1,9 @@
 ## I'm literally a bit off, like actually
 ```js
-((byte="0001") => {
-  byte="0000";
+byte=((byte="0001") => {
+     byte="0000";
   if (byte.match("0000")){
-  return byte=null;}
+  return null;}
 })();
 ```
 
