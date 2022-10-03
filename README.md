@@ -1,9 +1,10 @@
 ## I'm literally a bit off, like actually
+
 ```js
 byte=((byte="0001") => {
-     byte="0000";
-  if (byte.match("0000")){
-  return null;}
+    byte=byte.replace("1","0");
+    return byte.match("0000")?
+    null:byte
 })();
 ```
 
