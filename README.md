@@ -8,7 +8,7 @@ byte=((byte="0001") => {
 })();
 ```
 
-## Now I'm refered as Null Byte
+## Now I'm refered as Null-Byte
 > But my true purpose shall remain NoneType
 
 ## Contact (Emergency only)
