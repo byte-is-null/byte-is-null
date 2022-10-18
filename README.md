@@ -5,7 +5,7 @@ byte=((byte="0001") => {
     byte=byte.replace("1","0");
     return byte.match("0000")?
     null:byte
-})();
+})(); //null
 ```
 
 ## Now I'm refered as Null-Byte
