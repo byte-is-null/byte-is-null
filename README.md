@@ -9,7 +9,7 @@ byte=((byte="0000 0001") => {
 ```
 Tags: `Run-In-Browser` `Source-Code` `JavaScript`
 
-## Now I'm refered as Null-Byte
+## Now I'm referred as Null-Byte
 > But my true purpose shall remain NoneType
 
 ## Contact (Emergency only)
