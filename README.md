@@ -1,6 +1,6 @@
 ## Hello, I'm recently a bit off
 
-```js
+```javascript
 byte=((byte="0000 0001") => {
     byte=byte.replace("1","0");
     return byte.match("0000 0000")?
