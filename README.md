@@ -1,5 +1,5 @@
 ## Hello, I'm recently a bit off
-
+ 
 ```javascript
 byte=((byte="0000 0001") => {
     byte=byte.replace("1","0");
