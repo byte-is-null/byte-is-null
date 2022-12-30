@@ -10,7 +10,7 @@ byte=((byte="0000 0001") => {
 
 Tags: [`Run-In-Browser`](https://github.com/topics/run-in-browser) [`Source-Code`](https://github.com/topics/source-code) [`JavaScript`](https://github.com/topics/javascript)
 
-## Now I'm referred as Nullified
+## Now I'm referred to as Nullified
 > But my true purpose shall remain NoneType
 
 ## Contact (Emergency only)
