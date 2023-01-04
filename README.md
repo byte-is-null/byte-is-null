@@ -15,4 +15,4 @@ Tags: `Run-In-Browser` `Source-Code` `JavaScript`
 > But my true purpose shall remain NoneType
 
 ## Contact (Emergency only)
-WARNING: Please do not try and [contact me]()
+WARNING: Please do not try and [contact me](https://github.com/byte-is-null/contact-info)
