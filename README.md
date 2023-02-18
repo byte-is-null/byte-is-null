@@ -2,16 +2,13 @@
  
 ```javascript
 fun main(): Unit {
-    val origin = "0000 0001"
     val byte = (fun(byte: String): String? {
         var byte = byte.replace("1","0")
-        val regex = Regex("0000 0000")
-        return when(byte.matches(regex)) {
+        return when(byte.matches(Regex("0000 0000"))) {
             true -> null
             false -> byte
         } ?: null
-    })(origin)
-    println(byte) //null
+    })("0000 0001") //null
 }
 ```
 
