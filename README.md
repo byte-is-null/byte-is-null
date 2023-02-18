@@ -12,8 +12,7 @@ fun main(): Unit {
 }
 ```
 
-Tags: `Run-In-Browser` `Source-Code` `Kotlin`
-<!--Tags: [`Run-In-Browser`](https://github.com/topics/run-in-browser) [`Source-Code`](https://github.com/topics/source-code) [`JavaScript`](https://github.com/topics/javascript)-->
+Tags: `Kotlin` `Run-In-Playground` `Source-Code`
 
 ## :stuck_out_tongue_winking_eye: Now I'm referred to as Nullified
 > But my true purpose shall remain NoneType
